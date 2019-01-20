@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:8080/posts/testing-extra-repository.html</loc>
+    <lastmod>2019-01-20T23:30:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/posts/saving-selectedresosittory-default-state.html</loc>
+    <lastmod>2019-01-20T23:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/posts/asd.html</loc>
+    <lastmod>2019-01-20T01:08:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/posts/testx.html</loc>
+    <lastmod>2019-01-20T01:08:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/posts.html</loc>
+    <lastmod>2019-01-20T23:30:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tags.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/</loc>
+    <lastmod>2019-01-20T23:30:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/posts/test.html</loc>
+  </url>
+  
+</urlset>
