@@ -3,49 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:8080/posts/testing-extra-repository.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/sss.html</loc>
+    <lastmod>2019-01-27T11:46:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/asd_1.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/asd_2.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/asd_3.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/asd_4.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/asd_5.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_2.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_3.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_4.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</loc>
+    <lastmod>2019-01-20T23:40:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/testing-extra-repository.html</loc>
     <lastmod>2019-01-20T23:30:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts/saving-selectedresosittory-default-state.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/saving-selectedresosittory-default-state.html</loc>
     <lastmod>2019-01-20T23:17:15+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts/asd.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/testx.html</loc>
     <lastmod>2019-01-20T01:08:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts/testx.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/testx_0.html</loc>
     <lastmod>2019-01-20T01:08:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/categories.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/testx_1.html</loc>
+    <lastmod>2019-01-20T01:08:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/testx2.html</loc>
+    <lastmod>2019-01-20T01:08:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/testx3.html</loc>
+    <lastmod>2019-01-20T01:08:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts.html</loc>
-    <lastmod>2019-01-20T23:30:58+02:00</lastmod>
+    <loc>https://turcuciprian.github.io/1-test/posts.html</loc>
+    <lastmod>2019-01-27T11:46:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/tags.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/tags.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/</loc>
-    <lastmod>2019-01-20T23:30:58+02:00</lastmod>
+    <loc>https://turcuciprian.github.io/1-test/</loc>
+    <lastmod>2019-01-27T11:46:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts/test.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/test.html</loc>
   </url>
   
 </urlset>
